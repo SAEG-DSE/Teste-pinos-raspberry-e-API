@@ -40,7 +40,7 @@ describe('modulo_3', function() {
 describe('modulo_4', function() {
 
         it( 'Testa se o pino 7 esta em nivel logico 1)', function() {
-                SetPino_4_ON(value2).should.be.true();
+                SetPino_7_ON(value2).should.be.true();
 
         });
 });
